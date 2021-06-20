@@ -1,0 +1,58 @@
+[RESOURCES]
+Casting Break Resource
+Screw Disk Resource
+Repair HardDisk Resource
+Screw Head Resource
+Screw Magnet Resource
+Casting Box Resource
+Screw Board Resource
+Close Box Door Resource
+Soldering Board Resource
+Turn to Raw Plastic Resource
+Screw Break Resource
+[VARIABLES]
+Casting Break Process.NumberOut
+Head Arrive.NumberOut
+Casting Box Process.NumberOut
+Check Box Quality.NumberOut True
+Trash.NumberOut
+Decice Casting Type.NumberOut False
+Screw Break Process.NumberOut
+Separate Breaks.NumberOut Orig
+Decice Casting Type.NumberOut True
+Disk Arrive.NumberOut
+Soldering Board Process.NumberIn
+Batch Box and Head.NumberOut
+Turn to Raw Plastic Process.NumberIn
+Batch Box and Board.NumberOut
+Screapped.NumberOut
+Batch Box and Break.NumberOut
+Separate Breaks.NumberOut Dup
+Close Box Door Process.NumberOut
+Soldering Board Process.NumberOut
+Repair HardDisk Process.NumberIn
+Casting Break Process.NumberIn
+Batch Box and Magnet.NumberOut
+Screw Disk Process.NumberOut
+Screw Board Process.NumberIn
+Batch Box and Disk.NumberOut
+Casting Box Process.NumberIn
+Repair HardDisk Process.NumberOut
+Close Box Door Process.NumberIn
+Batch HardDisk Pack.NumberOut
+Bach Scrapped Breaks.NumberOut
+Get Raw Plastic.NumberOut
+Store.NumberOut
+Check Break Quality.NumberOut False
+Screw Head Process.NumberOut
+Magnet Arrive.NumberOut
+Screw Head Process.NumberIn
+Turn to Raw Plastic Process.NumberOut
+Board Arrive.NumberOut
+Screw Magnet Process.NumberOut
+Screw Board Process.NumberOut
+Screw Disk Process.NumberIn
+Check Break Quality.NumberOut True
+Check Box Quality.NumberOut False
+Screw Break Process.NumberIn
+Screw Magnet Process.NumberIn
