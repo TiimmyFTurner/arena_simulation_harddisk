@@ -1,15 +1,15 @@
 SIMAN Run Controller.
 
-648.6488 Minutes>
+418.67174 Minutes>
                                       ARENA Simulation Results
                                  Windows User - License: 7328734345
 
                                   Summary for Replication 1 of 1
 
-Project: Unnamed Project                                             Run execution date : 6/21/2021
-Analyst: Rockwell Automation                                         Model revision date: 6/21/2021
+Project: Unnamed Project                                             Run execution date : 6/23/2021
+Analyst: Rockwell Automation                                         Model revision date: 6/23/2021
 
-Replication ended at time      : 648.6488 Minutes 
+Replication ended at time      : 418.67174 Minutes 
 Base Time Units: Minutes
 
                                            TALLY VARIABLES
@@ -17,7 +17,7 @@ Base Time Units: Minutes
 Identifier                                  Average   Half Width  Minimum    Maximum   Observations
 ___________________________________________________________________________________________________
 
-Record Store Hards                          367.12     (Insuf)    165.75     604.51          6    
+Record Store Hards                          275.41     (Insuf)    165.75     404.38          4    
 Record Scrapped Hards                           --         --         --         --          0
 Raw Plastic.VATime                              --         --         --         --          0
 Raw Plastic.NVATime                             --         --         --         --          0
@@ -31,18 +31,18 @@ BoxXBreak.WaitTime                              --         --         --        
 BoxXBreak.TranTime                              --         --         --         --          0
 BoxXBreak.OtherTime                             --         --         --         --          0
 BoxXBreak.TotalTime                             --         --         --         --          0
-Board.VATime                                1.2810     (Insuf)    .35470     3.5249          8    
-Board.NVATime                               .00000     (Insuf)    .00000     .00000          8    
-Board.WaitTime                              .85153     (Insuf)    .00000     6.8122          8    
-Board.TranTime                              6.0000     (Insuf)    6.0000     6.0000          8    
-Board.OtherTime                             .00000     (Insuf)    .00000     .00000          8    
-Board.TotalTime                             8.1325     (Insuf)    6.3547     13.184          8    
-HardDisk Pack 12pcs.VATime                  291.86     (Insuf)    257.86     322.77          6    
-HardDisk Pack 12pcs.NVATime                 .00000     (Insuf)    .00000     .00000          6    
-HardDisk Pack 12pcs.WaitTime                4184.0     (Insuf)    2690.3     6105.4          6    
-HardDisk Pack 12pcs.TranTime                456.33     (Insuf)    442.00     480.00          6    
-HardDisk Pack 12pcs.OtherTime               .00000     (Insuf)    .00000     .00000          6    
-HardDisk Pack 12pcs.TotalTime               232.72     (Insuf)    159.92     363.36          6    
+Board.VATime                                .84532     (Insuf)    .35470     1.2811          5    
+Board.NVATime                               .00000     (Insuf)    .00000     .00000          5    
+Board.WaitTime                              .00000     (Insuf)    .00000     .00000          5    
+Board.TranTime                              6.0000     (Insuf)    6.0000     6.0000          5    
+Board.OtherTime                             .00000     (Insuf)    .00000     .00000          5    
+Board.TotalTime                             6.8453     (Insuf)    6.3547     7.2811          5    
+HardDisk Pack 12pcs.VATime                  288.57     (Insuf)    257.86     304.16          4    
+HardDisk Pack 12pcs.NVATime                 .00000     (Insuf)    .00000     .00000          4    
+HardDisk Pack 12pcs.WaitTime                3364.0     (Insuf)    2690.3     4501.8          4    
+HardDisk Pack 12pcs.TranTime                454.00     (Insuf)    442.00     480.00          4    
+HardDisk Pack 12pcs.OtherTime               .00000     (Insuf)    .00000     .00000          4    
+HardDisk Pack 12pcs.TotalTime               221.95     (Insuf)    159.92     363.36          4    
 Disk.VATime                                     --         --         --         --          0
 Disk.NVATime                                    --         --         --         --          0
 Disk.WaitTime                                   --         --         --         --          0
@@ -109,115 +109,115 @@ Break Pack.WaitTime                             --         --         --        
 Break Pack.TranTime                             --         --         --         --          0
 Break Pack.OtherTime                            --         --         --         --          0
 Break Pack.TotalTime                            --         --         --         --          0
-Screw Head Process.Queue.WaitingTime        1.6358     (Insuf)    .00000     14.284         95    
-Soldering Board Process.Queue.WaitingTime   1.6296     (Insuf)    .00000     12.685        124    
-Batch Box and Magnet.Queue.WaitingTime      .00000     (Insuf)    .00000     .00000        194    
-Screw Board Process.Queue.WaitingTime       .90677     (Insuf)    .00000     11.859         79    
-Match Box and Board.Queue1.WaitingTime      .00000     (Insuf)    .00000     .00000         79    
-Match Box and Board.Queue2.WaitingTime      85.776     (Insuf)    18.255     187.59         79    
-Batch Box and Break.Queue.WaitingTime       .00000     (Insuf)    .00000     .00000        166    
-Batch HardDisk Pack.Queue.WaitingTime       38.617     (Insuf)    .00000     105.01         72    
-Repair HardDisk Process.Queue.WaitingTime   .00000     (Insuf)    .00000     .00000          6    
-Screw Disk Process.Queue.WaitingTime        1.1018     (Insuf)    .00000     11.396         95    
-Turn to Raw Plastic Process.Queue.WaitingT  .40893     (Insuf)    .00000     3.7020         26    
-Match Box and Break.Queue1.WaitingTime      24.371     (Insuf)    .00000     110.70         83    
-Match Box and Break.Queue2.WaitingTime      4.3173     (Insuf)    .00000     29.535         83    
-Close Box Door Process.Queue.WaitingTime    1.3747     (Insuf)    .00000     18.534         78    
-Casting Box Process.Queue.WaitingTime       7.8227     (Insuf)    .00000     34.302        135    
-Batch Box and Board.Queue.WaitingTime       .00000     (Insuf)    .00000     .00000        158    
-Batch Box and Disk.Queue.WaitingTime        .00000     (Insuf)    .00000     .00000        190    
-Screw Magnet Process.Queue.WaitingTime      .46234     (Insuf)    .00000     5.0434         96    
-Match Box and Head.Queue1.WaitingTime       .00000     (Insuf)    .00000     .00000         95    
-Match Box and Head.Queue2.WaitingTime       67.722     (Insuf)    17.619     96.408         95    
-Casting Break Process.Queue.WaitingTime     2.5144     (Insuf)    .00000     15.193         32    
-Match Box and Magnet.Queue1.WaitingTime     50.665     (Insuf)    .00000     82.984         97    
-Match Box and Magnet.Queue2.WaitingTime     .48813     (Insuf)    .00000     16.319         97    
-Screw Break Process.Queue.WaitingTime       1.2805     (Insuf)    .00000     11.027         80    
-Bach Scrapped Breaks.Queue.WaitingTime      66.365     (Insuf)    .00000     195.18          9    
-Match Box and Disk.Queue1.WaitingTime       .00000     (Insuf)    .00000     .00000         95    
-Match Box and Disk.Queue2.WaitingTime       88.312     (Insuf)    12.642     166.07         95    
-Batch Box and Head.Queue.WaitingTime        .00000     (Insuf)    .00000     .00000        190    
+Screw Head Process.Queue.WaitingTime        1.2319     (Insuf)    .00000     13.178         52    
+Soldering Board Process.Queue.WaitingTime   1.5335     (Insuf)    .00000     12.685         82    
+Batch Box and Magnet.Queue.WaitingTime      .00000     (Insuf)    .00000     .00000        116    
+Screw Board Process.Queue.WaitingTime       .52953     (Insuf)    .00000     6.9056         51    
+Match Box and Board.Queue1.WaitingTime      .00000     (Insuf)    .00000     .00000         51    
+Match Box and Board.Queue2.WaitingTime      53.187     (Insuf)    18.255     94.057         51    
+Batch Box and Break.Queue.WaitingTime       .00000     (Insuf)    .00000     .00000        102    
+Batch HardDisk Pack.Queue.WaitingTime       38.884     (Insuf)    .00000     105.01         48    
+Repair HardDisk Process.Queue.WaitingTime   .00000     (Insuf)    .00000     .00000          4    
+Screw Disk Process.Queue.WaitingTime        1.2138     (Insuf)    .00000     11.396         55    
+Turn to Raw Plastic Process.Queue.WaitingT  .33001     (Insuf)    .00000     3.1815         21    
+Match Box and Break.Queue1.WaitingTime      7.0625     (Insuf)    .00000     32.921         51    
+Match Box and Break.Queue2.WaitingTime      3.9346     (Insuf)    .00000     24.824         51    
+Close Box Door Process.Queue.WaitingTime    1.1867     (Insuf)    .00000     18.534         50    
+Casting Box Process.Queue.WaitingTime       8.9397     (Insuf)    .00000     34.302         90    
+Batch Box and Board.Queue.WaitingTime       .00000     (Insuf)    .00000     .00000        102    
+Batch Box and Disk.Queue.WaitingTime        .00000     (Insuf)    .00000     .00000        112    
+Screw Magnet Process.Queue.WaitingTime      .51078     (Insuf)    .00000     5.0434         58    
+Match Box and Head.Queue1.WaitingTime       .00000     (Insuf)    .00000     .00000         53    
+Match Box and Head.Queue2.WaitingTime       62.244     (Insuf)    17.619     89.119         53    
+Casting Break Process.Queue.WaitingTime     1.1054     (Insuf)    .00000     10.602         22    
+Match Box and Magnet.Queue1.WaitingTime     41.264     (Insuf)    .00000     82.692         58    
+Match Box and Magnet.Queue2.WaitingTime     .81636     (Insuf)    .00000     16.319         58    
+Screw Break Process.Queue.WaitingTime       1.3217     (Insuf)    .00000     11.027         51    
+Bach Scrapped Breaks.Queue.WaitingTime      59.869     (Insuf)    .00000     195.18          6    
+Match Box and Disk.Queue1.WaitingTime       .00000     (Insuf)    .00000     .00000         56    
+Match Box and Disk.Queue2.WaitingTime       68.690     (Insuf)    12.642     131.42         56    
+Batch Box and Head.Queue.WaitingTime        .00000     (Insuf)    .00000     .00000        106    
 
                                      DISCRETE-CHANGE VARIABLES
 
 Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
 ___________________________________________________________________________________________________
 
-Raw Plastic.WIP                             3.9550     (Corr)     .00000     12.000     7.0000    
-BoxXBreak.WIP                               6.9886     (Insuf)    .00000     17.000     11.000    
-Board.WIP                                   22.513     (Insuf)    .00000     42.000     39.000    
-HardDisk Pack 12pcs.WIP                     .01850     (Insuf)    .00000     1.0000     .00000    
-Disk.WIP                                    28.069     (Insuf)    .00000     50.000     50.000    
-BoxXDisk.WIP                                12.214     (Insuf)    .00000     26.000     23.000    
-Magnet.WIP                                  13.191     (Insuf)    .00000     27.000     25.000    
-Head.WIP                                    22.342     (Insuf)    .00000     39.000     36.000    
-BoxXHead.WIP                                11.441     (Insuf)    .00000     25.000     23.000    
-HardDisk.WIP                                5.2586     (Insuf)    .00000     13.000     5.0000    
-BoxXBoard.WIP                               1.0560     (Insuf)    .00000     6.0000     2.0000    
-Box.WIP                                     21.727     (Insuf)    .00000     43.000     39.000    
-BoxXMagnet.WIP                              12.819     (Insuf)    .00000     26.000     25.000    
-Break.WIP                                   11.104     (Insuf)    .00000     21.000     15.000    
-Break Pack.WIP                              .03167     (Insuf)    .00000     1.0000     .00000    
-Casting Break Resource.NumberBusy           .31881     (Insuf)    .00000     1.0000     1.0000    
+Raw Plastic.WIP                             4.1946     (Insuf)    .00000     12.000     3.0000    
+BoxXBreak.WIP                               6.8077     (Insuf)    .00000     16.000     3.0000    
+Board.WIP                                   17.188     (Insuf)    .00000     33.000     26.000    
+HardDisk Pack 12pcs.WIP                     .01911     (Insuf)    .00000     1.0000     .00000    
+Disk.WIP                                    20.760     (Insuf)    .00000     36.000     29.000    
+BoxXDisk.WIP                                9.1230     (Insuf)    .00000     19.000     8.0000    
+Magnet.WIP                                  10.084     (Insuf)    .00000     19.000     11.000    
+Head.WIP                                    18.233     (Insuf)    .00000     32.000     22.000    
+BoxXHead.WIP                                8.4011     (Insuf)    .00000     19.000     5.0000    
+HardDisk.WIP                                5.2272     (Insuf)    .00000     13.000     2.0000    
+BoxXBoard.WIP                               .95001     (Insuf)    .00000     6.0000     1.0000    
+Box.WIP                                     16.688     (Insuf)    .00000     31.000     22.000    
+BoxXMagnet.WIP                              9.6892     (Insuf)    .00000     19.000     10.000    
+Break.WIP                                   10.695     (Insuf)    .00000     21.000     15.000    
+Break Pack.WIP                              .03298     (Insuf)    .00000     1.0000     .00000    
+Casting Break Resource.NumberBusy           .28662     (Insuf)    .00000     1.0000     .00000    
 Casting Break Resource.NumberScheduled      1.0000     (Insuf)    1.0000     1.0000     1.0000    
-Casting Break Resource.Utilization          .31881     (Insuf)    .00000     1.0000     1.0000    
-Screw Disk Resource.NumberBusy              .31921     (Insuf)    .00000     1.0000     .00000    
+Casting Break Resource.Utilization          .28662     (Insuf)    .00000     1.0000     .00000    
+Screw Disk Resource.NumberBusy              .30564     (Insuf)    .00000     1.0000     1.0000    
 Screw Disk Resource.NumberScheduled         1.0000     (Insuf)    1.0000     1.0000     1.0000    
-Screw Disk Resource.Utilization             .31921     (Insuf)    .00000     1.0000     .00000    
-Repair HardDisk Resource.NumberBusy         .02737     (Insuf)    .00000     1.0000     .00000    
+Screw Disk Resource.Utilization             .30564     (Insuf)    .00000     1.0000     1.0000    
+Repair HardDisk Resource.NumberBusy         .02763     (Insuf)    .00000     1.0000     .00000    
 Repair HardDisk Resource.NumberScheduled    1.0000     (Insuf)    1.0000     1.0000     1.0000    
-Repair HardDisk Resource.Utilization        .02737     (Insuf)    .00000     1.0000     .00000    
-Screw Head Resource.NumberBusy              .34749     (Insuf)    .00000     1.0000     .00000    
+Repair HardDisk Resource.Utilization        .02763     (Insuf)    .00000     1.0000     .00000    
+Screw Head Resource.NumberBusy              .32218     (Insuf)    .00000     1.0000     1.0000    
 Screw Head Resource.NumberScheduled         1.0000     (Insuf)    1.0000     1.0000     1.0000    
-Screw Head Resource.Utilization             .34749     (Insuf)    .00000     1.0000     .00000    
-Screw Magnet Resource.NumberBusy            .24170     (Insuf)    .00000     1.0000     1.0000    
+Screw Head Resource.Utilization             .32218     (Insuf)    .00000     1.0000     1.0000    
+Screw Magnet Resource.NumberBusy            .22589     (Insuf)    .00000     1.0000     1.0000    
 Screw Magnet Resource.NumberScheduled       1.0000     (Insuf)    1.0000     1.0000     1.0000    
-Screw Magnet Resource.Utilization           .24170     (Insuf)    .00000     1.0000     1.0000    
-Casting Box Resource.NumberBusy             .78155     (Insuf)    .00000     1.0000     1.0000    
+Screw Magnet Resource.Utilization           .22589     (Insuf)    .00000     1.0000     1.0000    
+Casting Box Resource.NumberBusy             .79343     (Insuf)    .00000     1.0000     1.0000    
 Casting Box Resource.NumberScheduled        1.0000     (Insuf)    1.0000     1.0000     1.0000    
-Casting Box Resource.Utilization            .78155     (Insuf)    .00000     1.0000     1.0000    
-Screw Board Resource.NumberBusy             .26218     (Insuf)    .00000     1.0000     1.0000    
+Casting Box Resource.Utilization            .79343     (Insuf)    .00000     1.0000     1.0000    
+Screw Board Resource.NumberBusy             .23353     (Insuf)    .00000     1.0000     .00000    
 Screw Board Resource.NumberScheduled        1.0000     (Insuf)    1.0000     1.0000     1.0000    
-Screw Board Resource.Utilization            .26218     (Insuf)    .00000     1.0000     1.0000    
-Close Box Door Resource.NumberBusy          .27758     (Insuf)    .00000     1.0000     1.0000    
+Screw Board Resource.Utilization            .23353     (Insuf)    .00000     1.0000     .00000    
+Close Box Door Resource.NumberBusy          .27044     (Insuf)    .00000     1.0000     .00000    
 Close Box Door Resource.NumberScheduled     1.0000     (Insuf)    1.0000     1.0000     1.0000    
-Close Box Door Resource.Utilization         .27758     (Insuf)    .00000     1.0000     1.0000    
-Soldering Board Resource.NumberBusy         .55180     (Insuf)    .00000     1.0000     1.0000    
+Close Box Door Resource.Utilization         .27044     (Insuf)    .00000     1.0000     .00000    
+Soldering Board Resource.NumberBusy         .56454     (Insuf)    .00000     1.0000     1.0000    
 Soldering Board Resource.NumberScheduled    1.0000     (Insuf)    1.0000     1.0000     1.0000    
-Soldering Board Resource.Utilization        .55180     (Insuf)    .00000     1.0000     1.0000    
-Turn to Raw Plastic Resource.NumberBusy     .17675     (Insuf)    .00000     1.0000     .00000    
+Soldering Board Resource.Utilization        .56454     (Insuf)    .00000     1.0000     1.0000    
+Turn to Raw Plastic Resource.NumberBusy     .22039     (Insuf)    .00000     1.0000     .00000    
 Turn to Raw Plastic Resource.NumberSchedul  1.0000     (Insuf)    1.0000     1.0000     1.0000    
-Turn to Raw Plastic Resource.Utilization    .17675     (Insuf)    .00000     1.0000     .00000    
-Screw Break Resource.NumberBusy             .23442     (Insuf)    .00000     1.0000     1.0000    
+Turn to Raw Plastic Resource.Utilization    .22039     (Insuf)    .00000     1.0000     .00000    
+Screw Break Resource.NumberBusy             .22583     (Insuf)    .00000     1.0000     .00000    
 Screw Break Resource.NumberScheduled        1.0000     (Insuf)    1.0000     1.0000     1.0000    
-Screw Break Resource.Utilization            .23442     (Insuf)    .00000     1.0000     1.0000    
-Screw Head Process.Queue.NumberInQueue      .23959     (Insuf)    .00000     4.0000     .00000    
-Soldering Board Process.Queue.NumberInQueu  .33483     (Insuf)    .00000     3.0000     3.0000    
+Screw Break Resource.Utilization            .22583     (Insuf)    .00000     1.0000     .00000    
+Screw Head Process.Queue.NumberInQueue      .16723     (Insuf)    .00000     4.0000     1.0000    
+Soldering Board Process.Queue.NumberInQueu  .30331     (Insuf)    .00000     3.0000     1.0000    
 Batch Box and Magnet.Queue.NumberInQueue    .00000     (Insuf)    .00000     2.0000     .00000    
-Screw Board Process.Queue.NumberInQueue     .11044     (Insuf)    .00000     2.0000     .00000    
+Screw Board Process.Queue.NumberInQueue     .06450     (Insuf)    .00000     2.0000     .00000    
 Match Box and Board.Queue1.NumberInQueue    .00000     (Insuf)    .00000     1.0000     .00000    
-Match Box and Board.Queue2.NumberInQueue    14.187     (Insuf)    .00000     29.000     28.000    
+Match Box and Board.Queue2.NumberInQueue    9.0039     (Insuf)    .00000     20.000     19.000    
 Batch Box and Break.Queue.NumberInQueue     .00000     (Insuf)    .00000     2.0000     .00000    
-Batch HardDisk Pack.Queue.NumberInQueue     4.5159     (Insuf)    .00000     12.000     5.0000    
+Batch HardDisk Pack.Queue.NumberInQueue     4.4735     (Insuf)    .00000     12.000     2.0000    
 Repair HardDisk Process.Queue.NumberInQueu  .00000     (Insuf)    .00000     .00000     .00000    
-Screw Disk Process.Queue.NumberInQueue      .16138     (Insuf)    .00000     3.0000     .00000    
-Turn to Raw Plastic Process.Queue.NumberIn  .01639     (Insuf)    .00000     1.0000     .00000    
-Match Box and Break.Queue1.NumberInQueue    3.5738     (Insuf)    .00000     15.000     11.000    
-Match Box and Break.Queue2.NumberInQueue    .55244     (Insuf)    .00000     7.0000     .00000    
-Close Box Door Process.Queue.NumberInQueue  .16532     (Insuf)    .00000     4.0000     .00000    
-Casting Box Process.Queue.NumberInQueue     1.6577     (Insuf)    .00000     10.000     2.0000    
+Screw Disk Process.Queue.NumberInQueue      .16128     (Insuf)    .00000     3.0000     1.0000    
+Turn to Raw Plastic Process.Queue.NumberIn  .01655     (Insuf)    .00000     1.0000     .00000    
+Match Box and Break.Queue1.NumberInQueue    .86032     (Insuf)    .00000     6.0000     .00000    
+Match Box and Break.Queue2.NumberInQueue    .60738     (Insuf)    .00000     7.0000     7.0000    
+Close Box Door Process.Queue.NumberInQueue  .14172     (Insuf)    .00000     4.0000     .00000    
+Casting Box Process.Queue.NumberInQueue     1.9673     (Insuf)    .00000     10.000     2.0000    
 Batch Box and Board.Queue.NumberInQueue     .00000     (Insuf)    .00000     2.0000     .00000    
 Batch Box and Disk.Queue.NumberInQueue      .00000     (Insuf)    .00000     2.0000     .00000    
-Screw Magnet Process.Queue.NumberInQueue    .07019     (Insuf)    .00000     2.0000     1.0000    
+Screw Magnet Process.Queue.NumberInQueue    .07076     (Insuf)    .00000     2.0000     .00000    
 Match Box and Head.Queue1.NumberInQueue     .00000     (Insuf)    .00000     1.0000     .00000    
-Match Box and Head.Queue2.NumberInQueue     10.568     (Insuf)    .00000     19.000     12.000    
-Casting Break Process.Queue.NumberInQueue   .13795     (Insuf)    .00000     2.0000     2.0000    
-Match Box and Magnet.Queue1.NumberInQueue   8.3243     (Insuf)    .00000     17.000     14.000    
-Match Box and Magnet.Queue2.NumberInQueue   .07300     (Insuf)    .00000     2.0000     .00000    
-Screw Break Process.Queue.NumberInQueue     .19593     (Insuf)    .00000     5.0000     3.0000    
-Bach Scrapped Breaks.Queue.NumberInQueue    1.0244     (Insuf)    .00000     3.0000     1.0000    
+Match Box and Head.Queue2.NumberInQueue     9.5013     (Insuf)    .00000     19.000     16.000    
+Casting Break Process.Queue.NumberInQueue   .05809     (Insuf)    .00000     2.0000     .00000    
+Match Box and Magnet.Queue1.NumberInQueue   6.3626     (Insuf)    .00000     16.000     11.000    
+Match Box and Magnet.Queue2.NumberInQueue   .11309     (Insuf)    .00000     2.0000     .00000    
+Screw Break Process.Queue.NumberInQueue     .16101     (Insuf)    .00000     4.0000     .00000    
+Bach Scrapped Breaks.Queue.NumberInQueue    .91449     (Insuf)    .00000     3.0000     2.0000    
 Match Box and Disk.Queue1.NumberInQueue     .00000     (Insuf)    .00000     1.0000     .00000    
-Match Box and Disk.Queue2.NumberInQueue     15.480     (Insuf)    .00000     27.000     26.000    
+Match Box and Disk.Queue2.NumberInQueue     11.272     (Insuf)    .00000     23.000     20.000    
 Batch Box and Head.Queue.NumberInQueue      .00000     (Insuf)    .00000     2.0000     .00000    
 
                                              OUTPUTS
@@ -225,60 +225,60 @@ Batch Box and Head.Queue.NumberInQueue      .00000     (Insuf)    .00000     2.0
 Identifier                                   Value
 _____________________________________________________________
 
-Raw Plastic.NumberIn                        234.00    
-Raw Plastic.NumberOut                       227.00    
-BoxXBreak.NumberIn                          83.000    
-BoxXBreak.NumberOut                         72.000    
-Board.NumberIn                              119.00    
-Board.NumberOut                             80.000    
-HardDisk Pack 12pcs.NumberIn                6.0000    
-HardDisk Pack 12pcs.NumberOut               6.0000    
-Disk.NumberIn                               122.00    
-Disk.NumberOut                              72.000    
-BoxXDisk.NumberIn                           95.000    
-BoxXDisk.NumberOut                          72.000    
-Magnet.NumberIn                             97.000    
-Magnet.NumberOut                            72.000    
-Head.NumberIn                               108.00    
-Head.NumberOut                              72.000    
-BoxXHead.NumberIn                           95.000    
-BoxXHead.NumberOut                          72.000    
-HardDisk.NumberIn                           77.000    
-HardDisk.NumberOut                          72.000    
-BoxXBoard.NumberIn                          79.000    
-BoxXBoard.NumberOut                         77.000    
-Box.NumberIn                                134.00    
-Box.NumberOut                               95.000    
-BoxXMagnet.NumberIn                         97.000    
-BoxXMagnet.NumberOut                        72.000    
-Break.NumberIn                              93.000    
-Break.NumberOut                             78.000    
-Break Pack.NumberIn                         3.0000    
-Break Pack.NumberOut                        3.0000    
-Casting Break Resource.NumberSeized         32.000    
-Casting Break Resource.ScheduledUtilizatio  .31881    
-Screw Disk Resource.NumberSeized            95.000    
-Screw Disk Resource.ScheduledUtilization    .31921    
-Repair HardDisk Resource.NumberSeized       6.0000    
-Repair HardDisk Resource.ScheduledUtilizat  .02737    
-Screw Head Resource.NumberSeized            95.000    
-Screw Head Resource.ScheduledUtilization    .34749    
-Screw Magnet Resource.NumberSeized          96.000    
-Screw Magnet Resource.ScheduledUtilization  .24170    
-Casting Box Resource.NumberSeized           135.00    
-Casting Box Resource.ScheduledUtilization   .78155    
-Screw Board Resource.NumberSeized           79.000    
-Screw Board Resource.ScheduledUtilization   .26218    
-Close Box Door Resource.NumberSeized        78.000    
-Close Box Door Resource.ScheduledUtilizati  .27758    
-Soldering Board Resource.NumberSeized       124.00    
-Soldering Board Resource.ScheduledUtilizat  .55180    
-Turn to Raw Plastic Resource.NumberSeized   26.000    
-Turn to Raw Plastic Resource.ScheduledUtil  .17675    
-Screw Break Resource.NumberSeized           80.000    
-Screw Break Resource.ScheduledUtilization   .23442    
-System.NumberOut                            14.000    
+Raw Plastic.NumberIn                        158.00    
+Raw Plastic.NumberOut                       155.00    
+BoxXBreak.NumberIn                          51.000    
+BoxXBreak.NumberOut                         48.000    
+Board.NumberIn                              79.000    
+Board.NumberOut                             53.000    
+HardDisk Pack 12pcs.NumberIn                4.0000    
+HardDisk Pack 12pcs.NumberOut               4.0000    
+Disk.NumberIn                               77.000    
+Disk.NumberOut                              48.000    
+BoxXDisk.NumberIn                           56.000    
+BoxXDisk.NumberOut                          48.000    
+Magnet.NumberIn                             59.000    
+Magnet.NumberOut                            48.000    
+Head.NumberIn                               70.000    
+Head.NumberOut                              48.000    
+BoxXHead.NumberIn                           53.000    
+BoxXHead.NumberOut                          48.000    
+HardDisk.NumberIn                           50.000    
+HardDisk.NumberOut                          48.000    
+BoxXBoard.NumberIn                          51.000    
+BoxXBoard.NumberOut                         50.000    
+Box.NumberIn                                89.000    
+Box.NumberOut                               67.000    
+BoxXMagnet.NumberIn                         58.000    
+BoxXMagnet.NumberOut                        48.000    
+Break.NumberIn                              66.000    
+Break.NumberOut                             51.000    
+Break Pack.NumberIn                         2.0000    
+Break Pack.NumberOut                        2.0000    
+Casting Break Resource.NumberSeized         22.000    
+Casting Break Resource.ScheduledUtilizatio  .28662    
+Screw Disk Resource.NumberSeized            55.000    
+Screw Disk Resource.ScheduledUtilization    .30564    
+Repair HardDisk Resource.NumberSeized       4.0000    
+Repair HardDisk Resource.ScheduledUtilizat  .02763    
+Screw Head Resource.NumberSeized            52.000    
+Screw Head Resource.ScheduledUtilization    .32218    
+Screw Magnet Resource.NumberSeized          58.000    
+Screw Magnet Resource.ScheduledUtilization  .22589    
+Casting Box Resource.NumberSeized           90.000    
+Casting Box Resource.ScheduledUtilization   .79343    
+Screw Board Resource.NumberSeized           51.000    
+Screw Board Resource.ScheduledUtilization   .23353    
+Close Box Door Resource.NumberSeized        50.000    
+Close Box Door Resource.ScheduledUtilizati  .27044    
+Soldering Board Resource.NumberSeized       82.000    
+Soldering Board Resource.ScheduledUtilizat  .56454    
+Turn to Raw Plastic Resource.NumberSeized   21.000    
+Turn to Raw Plastic Resource.ScheduledUtil  .22039    
+Screw Break Resource.NumberSeized           51.000    
+Screw Break Resource.ScheduledUtilization   .22583    
+System.NumberOut                            9.0000    
 
 
-Simulation run time: 7.22 minutes.
+Simulation run time: 0.12 minutes.
 Simulation run complete.
